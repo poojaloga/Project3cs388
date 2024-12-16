@@ -1,4 +1,4 @@
-# Android Project 3 - *Flxster*
+# Android Project 3 - *Flixster+ Part 1*
 
 Submitted by: **Pooja Loganathan**
 
